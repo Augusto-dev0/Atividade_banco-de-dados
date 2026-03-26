@@ -1,7 +1,6 @@
 -- =============================================
 -- TAREFINHA PARA CASA - COMPLETA
 -- Aluno: Luiz Augusto Correia Freire
--- Número da matricula: 01807040
 -- =============================================
 
 -- 1. Tabela Postal
